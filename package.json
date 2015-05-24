@@ -1,0 +1,19 @@
+{
+  "name": "miriada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgeordovi/miriada.git"
+  },
+  "author": "jorge ordonez v",
+  "license": "mit std",
+  "bugs": {
+    "url": "https://github.com/jorgeordovi/miriada/issues"
+  },
+  "homepage": "https://github.com/jorgeordovi/miriada"
+}
